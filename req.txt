@@ -6,3 +6,4 @@ tswift
 countryinfo
 emoji-country-flag
 feedparser
+telethon==1.19.5
